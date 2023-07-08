@@ -1,0 +1,3 @@
+C:/Users/besfa/CLionProjects/Aleskin_IU4-22B_BIG_DZ/cmake-build-debug/CMakeFiles/Aleskin_IU4_22B_BIG_DZ.dir
+C:/Users/besfa/CLionProjects/Aleskin_IU4-22B_BIG_DZ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/besfa/CLionProjects/Aleskin_IU4-22B_BIG_DZ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
